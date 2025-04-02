@@ -1,11 +1,8 @@
 
 # Information
 
-The project at https://github.com/geeklearningio/gl-vsts-tasks-azure is not being updated. If you run into a problem with this task, you may need an alternative.
+The project at https://github.com/geeklearningio/gl-vsts-tasks-azure is not being updated. If you run into a problem with this task, you may need an alternative. This is a [pure ChatGPT 03-mini response](/Prompt.md) scoped to reproduce a solution built in PowerShell to replicate the behavior of the Azure SQL Execute Query task.
 
-This is a [pure ChatGPT 03-mini response](/Prompt.md) scoped to reproduce a solution built in PowerShell to replicate the behavior of the Azure SQL Execute Query task.
-
-```markdown
 # Invoke-AzureSqlQuery
 
 ## Overview
@@ -136,5 +133,3 @@ Happy querying!
 ```
 
 ---
-
-You can now add these files to your repository and integrate the script into your Azure release pipeline as needed. If you have any questions or need further modifications, please let me know!
